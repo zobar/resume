@@ -9,14 +9,17 @@ B.S. Computer Science, Rochester Institute of Technology, May 2005
 ## Experience
 Over 10 years professional software development experience
 
+### Software Engineer, Geezeo
+**April 2013-Present**
+
 ### Developer, Academic Software Plus
-**January 2010-Present**
+**January 2010-April 2013**
 
 As part of a small development team, helped design, implement, and maintain a
 large-scale software suite for processing college applications for schools in
 medical professions. This involved reconciling the differences between fourteen
 different online application forms and aggregating them into one database for
-processing and reporting. Worked bot alone and with team members to develop
+processing and reporting. Worked both alone and with team members to develop
 major customer-facing and backend functionality. Provided mentorship as
 necessary for junior team members.
 
