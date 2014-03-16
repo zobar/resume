@@ -3,6 +3,9 @@
 Buffalo, NY 14223
 +1 716 207 5852
 
+The [most recent version of my resume](https://bitbucket.org/zobar/resume) and
+[side projects](https://bitbucket.org/zobar) can be found on Bitbucket.
+
 ## Education
 B.S. Computer Science, Rochester Institute of Technology, May 2005
 
