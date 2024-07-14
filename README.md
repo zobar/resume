@@ -1,101 +1,87 @@
-# David P. Kleinschmidt
-40 Hartford Ave
-Buffalo, NY 14223
-+1 716 207 5852
+# David Kleinschmidt
+## Senior Staff Software Engineer
+Buffalo, New York  •  +1-716-207-5852  •  david@kleinschmidt.name
 
-The [most recent version of my resume](https://bitbucket.org/zobar/resume) and
-[side projects](https://bitbucket.org/zobar) can be found on Bitbucket.
+Software engineering lead with 25 years' experience implementing high-volume web applications and big data systems, transitioning to a role of technical leadership. Directed a team through a delicate no-downtime migration of a 33 TB database on a three-month timeline, communicating status with internal & external stakeholders.
 
-## Education
-B.S. Computer Science, Rochester Institute of Technology, May 2005
+## Work Experience
 
-## Experience
-Over 10 years professional software development experience
+### Senior Staff Software Engineer, Jack Henry & Associates
+*October 2022 – Present*
 
-### Software Engineer, Geezeo
-**April 2013-Present**
+Advised and advocated for four engineering teams comprising 20 full-time engineers.
 
-### Developer, Academic Software Plus
-**January 2010-April 2013**
+* Liaised with another team to build a cross-data center synchronization pipeline that now handles 500 million financial transactions per month.
+* Managed migration of a database of 20 billion financial transactions from Azure CosmosDB to Google Cloud Spanner.
 
-As part of a small development team, helped design, implement, and maintain a
-large-scale software suite for processing college applications for schools in
-medical professions. This involved reconciling the differences between fourteen
-different online application forms and aggregating them into one database for
-processing and reporting. Worked both alone and with team members to develop
-major customer-facing and backend functionality. Provided mentorship as
-necessary for junior team members.
+### Senior Advisory Software Engineer, Jack Henry & Associates
+*April 2013 – October 2022*
+Jack Henry & Associates, Monett, MO
 
-_Technologies: Ruby on Rails, PostgreSQL, Mac OS X, Linux._
+Scaled startup through acquisition to 10× performance. Spearheaded integration efforts.
 
-### Software Engineer, independent
-**March 2008-January 2010**
+* Stabilized monolithic Rails application that was causing at least one incident per week.
+* Profiled & optimized categorization engine. The optimizations have been running for 10 years, scaling with the business to 10 times the previous throughput with 80% fewer EC2 instances.
+* Designed a high-volume, cost-managed data storage & processing pipeline. This has scaled to handle 550 million transactions per month with a sustained throughput of 2,500 writes per second.
+* Implemented an integration for over 300 banks, serving as the primary technical point of contact.
 
-Provided B2C, B2B, and internal Web- and print-based product visualization
-software and related software development services for a high-profile
-multinational clothing designer. Contributed low-level graphics code to an
-application which allowed salespeople to produce print catalogs of speculative
-products by combining product sketches with production-ready designs.
-Contributed user-interface code which allowed non-technical users to customize
-product designs within the constraints of production-ready artwork. For another
-client, created an application that allowed customers to design customized floor
-mats for automobiles, within the limits of their production capabilities.
+### Senior Software Engineer, Liaison International
+*January 2010 – April 2013*
 
-_Technologies: Flash, Flex, Java, PHP, Illustrator, PDF, Microsoft SQL Server,
-Wilcom EmbroideryStudio, Mac OS X, Windows._
+Developed greenfield medical school application review suite used by admissions officers.
 
-### A/V Club, Queen City Roller Girls
-**May 2007-August 2012**
+* Collaborated on an ETL to consolidate medical school applications for 14 different professional associations into a common data warehouse.
+* Devised reporting backend enabling users to filter candidates on hundreds of data points.
 
-Design, implementation, maintenance, and operation of public-facing, real-time
-scoreboard & multimedia presentation software for local sanctioned roller derby
-league. This unique project offered a very demanding set of constraints,
-requiring absolute reliability, strict adherence to the official ruleset,
-instantaneous operation, attractive and readable public display even in
-suboptimal conditions, and ease of setup and use. This free, open-source
-application continues to be used and recommended by many leagues in the Women's
-Flat Track Derby Association.
+### Software Engineer, subcontractor for New Era Cap
+*March 2008 – January 2010*
 
-_Technologies: Flex, Flash, AIR._
+Broadened availability of product development tools with innovative visualization solutions.
+
+* Designed a Web-based embroidery customization tool to shorten product time-to-market.
+* Produced catalog for national retailers to visualize speculative product designs with different logos and colorways, to gauge market interest before committing to mass production.
+
+### A/V Club Volunteer, Queen City Roller Girls
+*May 2007 – August 2012*
+
+Implemented a scoreboard, advertising, and multimedia system for a flat track roller derby league.
+
+* Coded a scoreboard compliant with all applicable WFTDA rules that could be operated in real-time by a single official.
+* Integrated an advertising & multimedia system to support the league’s sponsorship program.
 
 ### Webmaster, Artvoice
-**August 2005-March 2008**
+*August 2005 – March 2008*
 
-Sole responsibility for the design, implementation, maintenance, and regular
-update of the website for Buffalo's only alternative newsweekly. Improved the
-system by which print articles were made available online. Implemented an events
-calendar database which integrated web and print offerings. Designed and
-implemented a custom, location-enabled minisite to support the yearly restaurant
-guide. Provided server administration and help desk support as necessary.
+Modernized online offerings for Buffalo’s oldest alternative newsweekly.
 
-_Technologies: Zope, Django, InDesign, Objective-C, PostgreSQL, Mac OS X, Mac OS
-X Server._
+* Overhauled the newspaper’s content management system, achieving parity with the print offering.
+* Transformed calendar with hundreds of local events into a searchable online database.
+* Built polling software for the annual Best of Buffalo popularity contest.
+* Supplemented annual restaurant guide with a searchable, location-enabled microsite.
 
-### Software Engineer, Bristol Capital Inc.
-**August 2001-May 2004**
+### Software Engineer
+*August 2001 – May 2004*
 
-Implementation and maintenance of comprehensive, automated security report for
-enterprise telephone switches. Design, implementation, and maintenance of
-modernized database-backed terminal emulation application. Design,
-implementation, and maintenance of B2B database of customer inventory and
-reports. Adapted a product line to a new platform based on my
-reverse-engineering of a telephone switch's configuration protocol.
+Converted legacy systems from HyperCard on Mac OS 9 to concurrent Objective-C on Mac OS X.
 
-_Technologies: Objective-C, C++, C, 4D, HyperCard, Mac OS, Mac OS X._
+* Collaborated with a system expert on an automated security analysis report for the Nortel Meridian 1.
+* Transformed a directory full of HyperCard stacks into a searchable online database of PBX inventory.
+* Reverse-engineered the Nortel BCM configuration protocol, allowing the company to adapt an existing product to a market with a high barrier to entry.
 
-### Software Engineer, Omnitech Corporate Solutions
-**June 1999-November 1999**
+### Software Engineer Co-op, Omnitech Corporate Solutions
+*August 2001 – May 2004*
 
-Implementation of commercially-available student assessment database package for
-large nonprofit student testing organization. Quality assurance for deployments
-of flagship kiosk platform.
-
-_Technologies: Visual C++, Microsoft SQL, Windows, Mac OS._
+* Built a cross-platform student assessment database for Educational Testing Service.
+* Verified deployments of the flagship retail kiosk platform.
 
 ### Graphic Design Intern, Science Kit & Boreal Laboratories
-**May 1998-August 1998**
+*May 1998 – August 1998*
 
-Programming for promotional CD-ROM included with national mail-order catalog.
-Scripting ad-hoc batch operations to support print catalog.
+* Coded a promotional CD-ROM included with the nationally-distributed mail-order catalog.
 
-_Technologies: Director, QuarkXPress, AppleScript, Mac OS._
+
+## Education
+
+### Rochester Institute of Technology
+
+Bachelor of Science — Computer Science
