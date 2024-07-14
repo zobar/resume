@@ -59,7 +59,7 @@ Modernized online offerings for Buffalo’s oldest alternative newsweekly.
 * Built polling software for the annual Best of Buffalo popularity contest.
 * Supplemented annual restaurant guide with a searchable, location-enabled microsite.
 
-### Software Engineer
+### Software Engineer, Bristol Captial
 *August 2001 – May 2004*
 
 Converted legacy systems from HyperCard on Mac OS 9 to concurrent Objective-C on Mac OS X.
@@ -69,7 +69,7 @@ Converted legacy systems from HyperCard on Mac OS 9 to concurrent Objective-C on
 * Reverse-engineered the Nortel BCM configuration protocol, allowing the company to adapt an existing product to a market with a high barrier to entry.
 
 ### Software Engineer Co-op, Omnitech Corporate Solutions
-*August 2001 – May 2004*
+*June 1999 – November 1999*
 
 * Built a cross-platform student assessment database for Educational Testing Service.
 * Verified deployments of the flagship retail kiosk platform.
