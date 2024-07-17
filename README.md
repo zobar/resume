@@ -1,25 +1,22 @@
 # David Kleinschmidt
 ## Senior Staff Software Engineer
-Buffalo, New York  •  +1-716-207-5852  •  david@kleinschmidt.name
+Buffalo, New York (Open to Remote) • +1-716-207-5852 • david@kleinschmidt.name
 
-Software engineering lead with 25 years' experience implementing high-volume web applications and big data systems, transitioning to a role of technical leadership. Directed a team through a delicate no-downtime migration of a 33 TB database on a three-month timeline, communicating status with internal & external stakeholders.
+Software engineering lead with 25 years' experience implementing high-volume web applications and big data systems, transitioning to a role of technical leadership. Advised a group of four engineering teams comprising 20 full-time engineers.
 
 ## Work Experience
 
-### Senior Staff Software Engineer, Jack Henry & Associates
+### Senior Staff Software Engineer, Jack Henry & Associates (Remote)
 *October 2022 – Present*
 
-Advised and advocated for four engineering teams comprising 20 full-time engineers.
+Facilitated integration of people, processes, and software with the larger organization. Guided big data implementation by core teams.
+* Liaised with another team to build a cross-data center pipeline that now handles 500 million financial transactions per month.
+* Directed no-downtime migration of a 33 TB database of 20 billion financial transactions on a compressed timeline, communicating status with internal & external stakeholders.
 
-* Liaised with another team to build a cross-data center synchronization pipeline that now handles 500 million financial transactions per month.
-* Managed migration of a database of 20 billion financial transactions from Azure CosmosDB to Google Cloud Spanner.
-
-### Senior Advisory Software Engineer, Jack Henry & Associates
+### Senior Advisory Software Engineer, Jack Henry & Associates (Remote)
 *April 2013 – October 2022*
-Jack Henry & Associates, Monett, MO
 
 Scaled startup through acquisition to 10× performance. Spearheaded integration efforts.
-
 * Stabilized monolithic Rails application that was causing at least one incident per week.
 * Profiled & optimized categorization engine. The optimizations have been running for 10 years, scaling with the business to 10 times the previous throughput with 80% fewer EC2 instances.
 * Designed a high-volume, cost-managed data storage & processing pipeline. This has scaled to handle 550 million transactions per month with a sustained throughput of 2,500 writes per second.
@@ -28,15 +25,12 @@ Scaled startup through acquisition to 10× performance. Spearheaded integration 
 ### Senior Software Engineer, Liaison International
 *January 2010 – April 2013*
 
-Developed greenfield medical school application review suite used by admissions officers.
-
-* Collaborated on an ETL to consolidate medical school applications for 14 different professional associations into a common data warehouse.
+Developed medical school application review suite used by admissions officers.
+* Collaborated on an ETL to consolidate medical school applications for 14 different professional associations into a common database.
 * Devised reporting backend enabling users to filter candidates on hundreds of data points.
 
 ### Software Engineer, subcontractor for New Era Cap
 *March 2008 – January 2010*
-
-Broadened availability of product development tools with innovative visualization solutions.
 
 * Designed a Web-based embroidery customization tool to shorten product time-to-market.
 * Produced catalog for national retailers to visualize speculative product designs with different logos and colorways, to gauge market interest before committing to mass production.
@@ -80,8 +74,40 @@ Converted legacy systems from HyperCard on Mac OS 9 to concurrent Objective-C on
 * Coded a promotional CD-ROM included with the nationally-distributed mail-order catalog.
 
 
+## Skills
+
+### Architecture
+* Event-driven SOA
+* Microservices
+* API Design
+* Specifications & Documentation
+
+### Cloud
+* AWS
+* Google Cloud
+* Azure
+
+### Big Data & Databases
+* DynamoDB
+* Spanner
+* Cosmos DB
+* Kinesis Data Streams
+* PostgreSQL
+* MySQL
+* Redis
+
+### Tools & Languages
+* Kubernetes/Docker
+* Terraform
+* CI/CD
+* DataDog
+* Spark Streaming
+* Scala/Java
+* Ruby on Rails
+* Python
+* Node.js/Javascript
+
 ## Education
 
 ### Rochester Institute of Technology
-
-Bachelor of Science — Computer Science
+BS, Computer Science
